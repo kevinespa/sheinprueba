@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 import Contentmessage from './components/Contentmessage'
-import ListaUsuarios from '/components/ListaUsuarios.jsx'
+import ListaUsuarios from './components/ListaUsuarios.jsx'
 
 
 
