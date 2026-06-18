@@ -2,9 +2,7 @@ import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Card from './components/Card'
 import ListaUsuarios from './components/listaUsuarios'
-import GuardarUsuario from './components/GuardarUsuario'
 import Contentmessage from './components/Contentmessage'
 
 
